@@ -4,7 +4,7 @@ A **BLE Fence** é uma aplicação Python que atua como uma "cerca eletrónica",
 
 ## 🛠️ Funcionalidades
 
-- Detecção de dispositivos BLE próximos.
+- Deteção de dispositivos BLE próximos.
 - Estimativa de distância baseada no sinal RSSI.
 - Alerta sonoro (`alert.mp3`) sempre que o dispositivo ultrapassa a distância configurada.
 - Totalmente personalizável com base no endereço MAC e raio de segurança.
